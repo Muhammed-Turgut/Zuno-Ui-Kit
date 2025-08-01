@@ -2,6 +2,8 @@ plugins {
     alias(libs.plugins.android.library)
     alias(libs.plugins.kotlin.android)
 }
+group = "com.github.Muhammed-Turgut"
+version = "1.0.1"
 
 android {
     namespace = "com.realizestudio.zunoui"
